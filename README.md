@@ -1,4 +1,4 @@
-# population_genotypes
+# PCA on Genotypes
 
 This repository consists of performing PCA and tSNE on the Phase 1 1000 Genomes Project data by samples and populations.
 
