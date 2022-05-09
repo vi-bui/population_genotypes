@@ -1,6 +1,6 @@
 # population_genotypes
 
-This repository consists of performing PCA on the Phase 1 1000 Genomes Project data by samples and populations.
+This repository consists of performing PCA and tSNE on the Phase 1 1000 Genomes Project data by samples and populations.
 
 The VCF file and panel file containing the populations was downloaded from The International Genome Sample Resource using AWS by the following code
 
